@@ -1,5 +1,4 @@
 var assert = require('assert');
-var jBinary = require('jbinary');
 var files = require('./lib/fixtures').files;
 var grib = require('../index');
 
